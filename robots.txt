@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://molim143143-stack.github.io/sfs-site_6b0704b0d46a/sitemap.xml
